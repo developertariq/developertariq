@@ -1,5 +1,5 @@
 <h1 align="center">Md Tariq-ul Islam</h1>
-<p align="center">Full Stack Developer</p>
+<p align="center">Full-Stack Developer</p>
 </br>
 </br>
 
