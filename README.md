@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Md Tariq-ul Islam</h1>
+<h1 align="center">Md Tariq-ul Islam</h1>
 <p align="center">Full Stack Software Developer</p>
 
 I'm passionate to face challenges and build solutions for desktop and mobile platform.✨
 
 Here's a list of things I currently keep myself busy with:👏
 - 🛠 Learning software development at [Microverse](https://www.microverse.org/?gclid=CjwKCAiAheacBhB8EiwAItVO257egk_saZ6PFckqnaXy0WbCa9AxUGdXwRfjNsJLvrjyxINbJWkEkBoCcqcQAvD_BwE).
-- 🛠 Learning how to build software using CSS, HTML, JavaScript, Ruby, and so on.
+- ☕ Learning how to build software using CSS, HTML, JavaScript, Ruby, and so on.
 - 🕸 Learning how to work remotely and collaboratively around the world.
 - 💻 Pair programs uning Zoom meeting with software developers from all over the world.
 
