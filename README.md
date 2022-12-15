@@ -43,10 +43,11 @@ Here's a list of things I currently keep myself busy with:👏
   <a href="#"><img src="./tools/ActiveReports-Logo.png" alt="Active Reports" width="40" height="40"/></a>
 </p>
 
+</br>
+</br>
 
-<!--<h3 align="left">Keep in touch:</h3>-->
-<hr>
 <section align="center">
+<h3 align="left">Keep in touch:</h3>
 <a href="https://twitter.com/" alt="Twitter"><img src="./social/Twitter-logo.png" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/" alt="Linkedin"><img src="./social/LinkedIn_icon.png" width="40" height="40"></a>
 <a href="https://www.facebook.com/" alt="Facebook"><img src="./social/Facebook_icon.svg" width="40" height="40"></a>
