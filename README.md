@@ -1,5 +1,5 @@
 <h1 align="center">Md Tariq-ul Islam</h1>
-<p align="center">Full Stack Software Developer</p>
+<p align="center">Full Stack Developer</p>
 
 I'm passionate to face challenges and build solutions for desktop and mobile platform.✨
 
