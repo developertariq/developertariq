@@ -16,7 +16,7 @@ Here's a list of things I currently keep myself busy with:👏
 - 🛠 Learning software development at [Microverse](https://www.microverse.org/?gclid=CjwKCAiAheacBhB8EiwAItVO257egk_saZ6PFckqnaXy0WbCa9AxUGdXwRfjNsJLvrjyxINbJWkEkBoCcqcQAvD_BwE).
 - ☕ Learning how to build software using CSS, HTML, JavaScript, Ruby, and so on.
 - 🕸 Learning how to work remotely and collaboratively around the world.
-- 💻 Pair programs uning Zoom meeting with software developers from all over the world.
+- 💻 Pair programs using Zoom meeting with software developers from all over the world.
 
 
 <h3 align="left">Languages and Tools:🌳</h3>
