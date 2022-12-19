@@ -1,5 +1,5 @@
 <h1 align="center">Md Tariq-ul Islam</h1>
-<p align="center">Full-Stack Developer</p>
+<h4 align="center">Full-Stack Developer</h4>
 
 </br>
 
@@ -50,8 +50,9 @@ Here's a list of things I currently keep myself busy with:👏
 <h2 align ="left">GitHub Stats</h2>
 </br>
 <div align="center">
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developertariq&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developertariq&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
 </br>
