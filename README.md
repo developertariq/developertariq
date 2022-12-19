@@ -52,7 +52,7 @@ Here's a list of things I currently keep myself busy with:👏
 <div align="center">
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developertariq&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="840" src="https://github-readme-streak-stats.herokuapp.com/?user=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
 </br>
