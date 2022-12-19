@@ -1,6 +1,6 @@
 <h1 align="center">Md Tariq-ul Islam</h1>
 <p align="center">Full-Stack Developer</p>
-</br>
+
 </br>
 
 I'm passionate to face challenges and build solutions for desktop and mobile platform.✨
@@ -8,9 +8,7 @@ I'm passionate to face challenges and build solutions for desktop and mobile pla
 </br>
 
 ## About me ⚓
-- Able to work hard and adopt never give up attitude.💪
-- Experience in implementing multiple business ideas in demanding, growing, rapidly changing circumstances.🏭
-- Familiar with working with a diverse population in a stressful, fast-paced environment.🚀
+Experience in implementing multiple business ideas in demanding, growing, rapidly changing circumstances. Familiar with working with a diverse population in a stressful, fast-paced environment. Adopt never give up attitude. 🚀
 
 </br>
 
@@ -20,8 +18,9 @@ Here's a list of things I currently keep myself busy with:👏
 - 🌍 Learning how to work remotely and collaboratively around the world.
 - 💻 Pair programs using Zoom meeting with software developers from all over the world.
 
+</br>
 
-<h3 align="left">Languages and Tools:🌳</h3>
+<h2 align="left">Languages and Tools:🌳</h2>
 <br/>
 <p align="left">
   <a href="#"><img src="./languages/VB.NET_Logo.svg" alt="VB.Net" width="40" height="40"/></a>
@@ -48,9 +47,22 @@ Here's a list of things I currently keep myself busy with:👏
 </br>
 </br>
 
-<section align="center">
-<h3 align="center">☕Social links⛓</h3>
-<a href="https://twitter.com/" alt="Twitter"><img src="./social/Twitter-logo.png" width="40" height="40"></a>
-<a href="https://www.linkedin.com/in/" alt="Linkedin"><img src="./social/LinkedIn_icon.png" width="40" height="40"></a>
-<a href="https://www.facebook.com/" alt="Facebook"><img src="./social/Facebook_icon.svg" width="40" height="40"></a>
-  </section>
+<h2 align ="left">GitHub Stats</h2>
+</br>
+<div align="center">
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developertariq&show_icons=true&theme=nightowl&count_private=true"/>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+  <h2 align="center">☕ Social links ⛓</h2>
+  <a href="https://twitter.com/" alt="Twitter"><img src="./social/Twitter-logo.png" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/" alt="Linkedin"><img src="./social/LinkedIn_icon.png" width="40" height="40"></a>
+  <a href="https://www.facebook.com/" alt="Facebook"><img src="./social/Facebook_icon.svg" width="40" height="40"></a>
+</div>
+
+</br>
+</br>
