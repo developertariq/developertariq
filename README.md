@@ -50,9 +50,9 @@ Here's a list of things I currently keep myself busy with:👏
 <h2 align ="left">GitHub Stats</h2>
 </br>
 <div align="center">
-  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
-  <img height="auto" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developertariq&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="auto" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="220px" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="220px" width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developertariq&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="220px" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=developertariq&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
 </br>
