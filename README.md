@@ -23,9 +23,9 @@ Here's a list of things I currently keep myself busy with:👏
 <h2 align="left">Languages and Tools:🌳</h2>
 <br/>
 <p align="left">
-  <a href="#"><img src="./languages/VB.NET_Logo.svg" alt="VB.Net" width="40" height="40"/></a>
+  <!--a href="#"><img src="./languages/VB.NET_Logo.svg" alt="VB.Net" width="40" height="40"/></a>
   <a href="#"><img src="./languages/C_Sharp_wordmark.svg" alt="C#.Net" width="40" height="40"/></a>
-  <a href="#"><img src="./tools/netframework-1.svg" alt=".Net Framework" width="40" height="40"/></a>
+  <a href="#"><img src="./tools/netframework-1.svg" alt=".Net Framework" width="40" height="40"/></a-->
   <a href="#"><img src="./languages/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="#"><img src="./tools/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="#"><img src="./tools/figma-icon.svg" alt="figma" width="40" height="40"/></a>
@@ -37,11 +37,11 @@ Here's a list of things I currently keep myself busy with:👏
   <a href="#"><img src="./tools/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="#"><img src="./tools/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
   <a href="#"><img src="./tools/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="#"><img src="./languages/microsoft-sql-server-logo-svgrepo-com.svg" alt="MS SQL" width="40" height="40"/></a>
+  <!--a href="#"><img src="./languages/microsoft-sql-server-logo-svgrepo-com.svg" alt="MS SQL" width="40" height="40"/></a-->
   <a href="#"><img src="./languages/Devicon-ruby-plain-wordmark.svg" alt="Ruby" width="40" height="40"/></a>
   <a href="#"><img src="./tools/Ruby_On_Rails_Logo.svg" alt="Ruby on rails" width="40" height="40"/></a>
-  <a href="#"><img src="./tools/crystal-reports-logo.png" alt="Crystal Reports" width="40" height="40"/></a>
-  <a href="#"><img src="./tools/ActiveReports-Logo.png" alt="Active Reports" width="40" height="40"/></a>
+  <!--a href="#"><img src="./tools/crystal-reports-logo.png" alt="Crystal Reports" width="40" height="40"/></a>
+  <a href="#"><img src="./tools/ActiveReports-Logo.png" alt="Active Reports" width="40" height="40"/></a-->
 </p>
 
 </br>
